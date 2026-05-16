@@ -1,0 +1,10 @@
+preguntan 5:
+respuesta: 
+          1. buscar la informacion. 
+          2. revisar la fuenta. 
+          3. confirmar la noticia.
+          4. verificar la fecha de publicacion.
+          5. analizar el contenido.
+          6. consultar a expertos o verificar echos.
+extra
+          7. pensar antes de compartir 
