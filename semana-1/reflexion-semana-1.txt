@@ -1,0 +1,5 @@
+pregunta 4: 
+respuesta: 
+          °Internet responsable: Si usamos internet para informarnos bien, verificando lo que leemos, participamos mejor en decisiones importantes de nuestra comunidad. ¡Es como asegurarnos de que la base de nuestras ideas sea sólida!
+          °Participación ciudadana: Cuando estamos bien informados, podemos opinar con fundamento, exigir que las cosas se hagan bien y contribuir de verdad a nuestra sociedad.
+          °Git (herramienta de organización): Git es como un "super-organizador" para el código de las computadoras. Lleva un registro de cada cambio, ayuda a que muchos colaboren sin liarla y asegura que todo funcione como debe.En resumen, tanto en internet como en la tecnología, la clave es la veracidad y la organización de la información. Si la información es fiable y está bien gestionada, todo funciona mejor, ¡desde nuestra participación en la sociedad hasta el desarrollo de software! 
