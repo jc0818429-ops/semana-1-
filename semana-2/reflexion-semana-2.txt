@@ -1,1 +1,8 @@
-saber usar la terminal es importante porque: es mucho mas rapido y practico que la interfaz grafica. °es la unica forma de trabajar y gestionar archivos en servidoreso entornos remotos que no tienen menus graficos. °permite automatizar tareas repetitivas para ahorrar tiempo y evitar errores. °te da control total sobre la estructura de tus archivos y te ayuda a mantener todo ordenado.
+saber usar la terminal es importante porque: es mucho mas rapido y practico que la interfaz grafica.
+°es la unica forma de trabajar y gestionar archivos en servidoreso entornos remotos que no tienen menus graficos.
+°permite automatizar tareas repetitivas para ahorrar tiempo y evitar errores.
+°te da control total sobre la estructura de tus archivos y te ayuda a mantener todo ordenado.
+y lo mejorde todo es que puedes repetir tares una y otra vez sin equivocarte: creas una lista de instrucciones y las ejecutas cuando quieras.
+asi mantienes todo ordenado, sabes donde esta cada cosa y te vuelves mucho mas productivo.
+ademas, muchas herramientas, lenguajes y formas de trabajar - como cuando guardas los cambios de un proyecto o lo pones a funcionar en un servidor - solo funcionan desde ahi.
+si no sabes usarla, te quedas sin poder aprovechar todo lo que hay disponible 
